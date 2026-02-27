@@ -290,4 +290,3 @@ Edit `lib/whatsapp.ts` → `generateWhatsAppMessage()` function.
 ## 📄 License
 
 MIT — free to use for commercial projects.
-# Crackers
